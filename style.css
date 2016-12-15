@@ -1,4 +1,18 @@
 body {
-	/*background-color: #FF66FF;*/
 	background-color: #9370DB;
+}
+
+button {
+	width: 55px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+}
+
+.rekenmasjien {
+	text-align: center;
+	margin-top: 100px;
+}
+
+input {
+	width: 288px;
 }
